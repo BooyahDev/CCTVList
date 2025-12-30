@@ -1,0 +1,4 @@
+cameras:
+  - name: "作業部屋"
+    rtspUrl: "rtsp://admin:888888@192.168.100.31:8554/profile0"
+    subRtspUrl: "rtsp://admin:888888@192.168.100.31:8554/profile1"
